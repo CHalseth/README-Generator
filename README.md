@@ -5,6 +5,7 @@ This terminal based application creates a README.md file for any project using a
     
 ## Table of Contents
 * [Installation](#installation)
+* [Walkthrough](#walkthrough)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -13,6 +14,10 @@ This terminal based application creates a README.md file for any project using a
   
 ## Installation 
 Inquirer must be installed, then the application can be ran through npm node.
+
+## Walkthrough
+[Walkthrough](https://drive.google.com/file/d/17SQ9fG1wAidhxdw-JRQGUjqRQ-dXhxJe/view)
+
 ## Usage 
 
 ## License 
