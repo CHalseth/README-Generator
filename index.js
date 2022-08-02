@@ -58,7 +58,7 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'constribution',
+            name: 'contribution',
             message: 'What guidelines are there for others to contribute to your project? If none press Enter.',
         },
         {
@@ -68,7 +68,7 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'username',
+            name: 'github',
             message: 'Enter your GitHub username (Required).',
             validate: (nameInput) => {
                 if (nameInput) {
@@ -121,8 +121,8 @@ const writeFile = data => {
 
 questions()
 
-.then(answer => {
-    return genereatePage(answers)
+.then(answers => {
+    return generatePage(answers)
 })
 
 .then(data => {
