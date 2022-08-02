@@ -1,6 +1,6 @@
 # README.md Generator
     
-    ## Description
+## Description
     This terminal based application creates a README.md file for your project using prompted sections to fill out.
     
     ## Table of Contents
